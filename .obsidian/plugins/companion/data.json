@@ -1,0 +1,27 @@
+{
+  "provider": "ollama",
+  "model": "gemma3:4b",
+  "enable_by_default": false,
+  "keybind": "Tab",
+  "delay_ms": 1000,
+  "stream": true,
+  "accept": {
+    "splitter_regex": " ",
+    "display_splitter_regex": "[.?!:;]",
+    "completion_completeness_regex": ".*(?!p{L})[^d]$",
+    "min_accept_length": 4,
+    "min_display_length": 50,
+    "retrigger_threshold": 48
+  },
+  "provider_settings": {
+    "ollama": {
+      "models": {
+        "phi3:3.8b": "{\"system_prompt\":\"\",\"user_prompt\":\"{{#context}}Context:\\n\\n{{context}}\\n\\n=================================\\n{{/context}}Do not start with \\\"...\\\". Continue the following paragraph:\\n\\n{{last_line}}\"}",
+        "llama3.2:1b": "{\"system_prompt\":\"\",\"user_prompt\":\"The following text has been written by the user. You will continue writing the next few words of the text as if you were the original writer. Do not begin the text with '\\\"...\\\" and don't summarize the text.\\n{{context}}\\n{{last_line}}\"}",
+        "gemma3:4b": "{\"system_prompt\":\"You are a tab completion style assistant in the Obsidian editor. After the user provided content you will continue writing the next few sentences of the text as if you were the original writer. Use British English Spelling. IMPORTANT: Write in the same style and tone of the user unless asked to do otherwise. Do not begin the text with any extra characters or '...' and don't summarize the text.\",\"user_prompt\":\"{{#context}}Context:\\n\\n{{context}}\\n\\n=================================\\n{{/context}}\\nContinue the following paragraph:\\n\\n{{last_line}}\",\"temperature\":0.2}"
+      }
+    }
+  },
+  "presets": [],
+  "fallback": null
+}

@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "6f2ac27886586702",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca5f093533b29a87",
+        "type": "split",
+        "children": [
+          {
+            "id": "4b91af7649ab0573",
+            "type": "tabs",
+            "dimension": 69.90196078431372,
+            "children": [
+              {
+                "id": "f04d8312a5851315",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5708b8dcc545bfdd",
+            "type": "tabs",
+            "dimension": 30.098039215686274,
+            "children": [
+              {
+                "id": "ea16dc5ce6f37ab2",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "C:\\Users\\steve\\Documents\\WorldBuilding Club\\Obsidian Workspace\\WorldBuilding Repository\\WorldBuilding Repository",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "environment": [],
+                        "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "profileSourceId": "aac0ffc4-1b59-47f7-add7-3e6a62c15ca5",
+                      "serial": null,
+                      "userTitle": ""
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: MINGW64:/c/Users/steve/Documents/WorldBuilding Club/Obsidian Workspace/WorldBuilding Repository/WorldBuilding Repository"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f098719e9dc314d",
+    "type": "split",
+    "children": [
+      {
+        "id": "216bf889f708e2f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bd228a663c9307c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6f27de1440ac0367",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ccc9fa49f081bd71",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76f1fce46098dc85",
+    "type": "split",
+    "children": [
+      {
+        "id": "089266a67efcd88c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "918edb50e75464c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "37da4e5217128c64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "062da8af64c71bff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bf1d9033b871626a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-27/When all else fails/When all else fails.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "05a1193adf171901",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.1666259765625
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false,
+      "terminal:Open terminal": false,
+      "quiz-generator:Open generator": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "ea16dc5ce6f37ab2",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "2026-27/When all else fails",
+    "2026-27/Do Nows.md",
+    "2026-27/When all else fails/When all else fails.md",
+    "2026-27/Eboard World Ideas.md",
+    "2026-27/Calendar test.md",
+    "2025-26/World Building notes/World Building notes.md",
+    "2025-26/World Building notes",
+    "Untitled.base",
+    "2026-27",
+    "2025-26",
+    "Notion/TTTTRPG/TTTTRPG.md",
+    "Notion/TTTTRPG/Organizations NPCs/Organizations-NPCs/Organizations-NPCs.md",
+    "Notion/TTTTRPG/Organizations NPCs/World Government/World Government.md",
+    "Notion/TTTTRPG/Systems/Artisanship/Mireweave/Mireweave.md",
+    "Notion/TTTTRPG/Fauna/Cube-Head Shark/Cube-Head Shark.md",
+    "Notion/TTTTRPG/Biomes/Cryocrete Mesa/Cryocrete Mesa.md",
+    "Notion/TTTTRPG/Social Constructs/Social Constructs.md",
+    "Notion/TTTTRPG/Social Constructs/Books/Books.md",
+    "README.md",
+    "Notion/TTTTRPG/Biomes/Biomes.md",
+    "Notion/TTTTRPG/Fauna/Fauna.md",
+    "Notion/TTTTRPG/Fauna/Frost Fin Minnow/Frost Fin Minnow.md",
+    "Notion/TTTTRPG/Fauna/Rain Weavers/Rain Weavers.md",
+    "Notion/TTTTRPG/Fauna/Spark Worms/Spark Worms.md",
+    "Notion/TTTTRPG/Fauna/Thunderflies/Thunderflies.md",
+    "Notion/TTTTRPG/Flora/Flora.md",
+    "Notion/TTTTRPG/Languages/Languages.md",
+    "Notion/TTTTRPG/Magic Items/Magic Items.md",
+    "Notion/TTTTRPG/Organizations NPCs/Organizations NPCs.md",
+    "Notion/TTTTRPG/Planes of Existence/Planes of Existence.md",
+    "VaultOperator",
+    "/VaultOperator",
+    "Notion/TTTTRPG/Races/——/——.base",
+    "Notion/TTTTRPG/Fauna/Cube-Head Shark",
+    "Notion/TTTTRPG/Fauna/Frost Fin Minnow",
+    "Movie List.png",
+    "Yearly Goals.png",
+    "Personal Home.jpeg",
+    "IMG_2932.jpeg",
+    "Notion/RIT DND/Stat blocks/IMG_2932.jpeg",
+    "Notion/Dungeons & Dipshits/DnD Damage Types.png",
+    "Notion/RIT DND/IMG_2899.png"
+  ]
+}

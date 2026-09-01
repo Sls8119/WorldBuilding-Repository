@@ -1,0 +1,15 @@
+{
+  "obsidian-default-theme@@background-primary@@light": "#0A6673",
+  "obsidian-default-theme@@background-primary-alt@@light": "#0A6673",
+  "obsidian-default-theme@@background-secondary@@light": "#0A6673",
+  "obsidian-default-theme@@background-secondary-alt@@light": "#0A6673",
+  "obsidian-default-theme@@background-modifier-border@@light": "#06383F",
+  "obsidian-default-theme@@background-modifier-form-field@@light": "#06383F",
+  "obsidian-default-theme@@background-modifier-box-shadow@@light": "#06383F",
+  "obsidian-default-theme@@text-accent@@light": "#B2A2FF",
+  "obsidian-default-theme@@text-accent-hover@@light": "#B2A2FF",
+  "obsidian-default-theme@@interactive-normal@@light": "#DBD3FF",
+  "obsidian-default-theme@@text-muted@@light": "#B2A2FF",
+  "obsidian-default-theme@@text-faint@@light": "#8879CF",
+  "obsidian-default-theme@@text-normal@@light": "#B2A2FF"
+}
