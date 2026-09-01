@@ -4,42 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "ebfdd36956cfee41",
+        "id": "ca5f093533b29a87",
         "type": "split",
         "children": [
           {
-            "id": "4b91af7649ab0573",
-            "type": "tabs",
+            "id": "8fba6253e1a5a314",
+            "type": "split",
+            "dimension": 69.28361138370953,
             "children": [
               {
-                "id": "f04d8312a5851315",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Coles Workflow Reminder.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Coles Workflow Reminder"
-                }
+                "id": "4b91af7649ab0573",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "f04d8312a5851315",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Coles Workflow Reminder.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Coles Workflow Reminder"
+                    },
+                    "group": "81a75c76584845e8"
+                  }
+                ]
+              },
+              {
+                "id": "30d0bd25282a1b9c",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "34c250225708fbd3",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Coles Workflow Reminder.md",
+                        "mode": "preview",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Coles Workflow Reminder"
+                    },
+                    "group": "81a75c76584845e8"
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "vertical"
           },
           {
-            "id": "b88dadeac05cb062",
+            "id": "5708b8dcc545bfdd",
             "type": "tabs",
+            "dimension": 30.716388616290477,
             "children": [
               {
-                "id": "8d7268f47bfacea2",
+                "id": "ea16dc5ce6f37ab2",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "terminal:terminal",
                   "state": {
                     "terminal:terminal": {
-                      "cwd": "C:\\World_Building_Space\\WorldBuilding-Repository",
+                      "cwd": "C:\\Users\\steve\\Documents\\WorldBuilding Club\\Obsidian Workspace\\WorldBuilding Repository\\WorldBuilding Repository",
                       "focus": false,
                       "profile": {
                         "args": [],
@@ -71,7 +102,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: MINGW64:/c/World_Building_Space/WorldBuilding-Repository"
+                  "title": "Terminal: MINGW64:/c/Users/steve/Documents/WorldBuilding Club/Obsidian Workspace/WorldBuilding Repository/WorldBuilding Repository"
                 }
               }
             ]
@@ -241,11 +272,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8d7268f47bfacea2",
+  "active": "ea16dc5ce6f37ab2",
   "lastOpenFiles": [
     "Coles Workflow Reminder.md",
-    "cole is stoooopid.md",
-    "steven is stoooopid.md",
     "Welcome.md",
     "2026-27/When all else fails",
     "2026-27/Do Nows.md",
@@ -274,6 +303,8 @@
     "Notion/TTTTRPG/Fauna/Thunderflies/Thunderflies.md",
     "Notion/TTTTRPG/Flora/Flora.md",
     "Notion/TTTTRPG/Languages/Languages.md",
+    "Notion/TTTTRPG/Magic Items/Magic Items.md",
+    "Notion/TTTTRPG/Organizations NPCs/Organizations NPCs.md",
     "VaultOperator",
     "/VaultOperator",
     "Notion/TTTTRPG/Races/——/——.base",

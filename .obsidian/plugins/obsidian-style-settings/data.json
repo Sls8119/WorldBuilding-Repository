@@ -1,5 +1,4 @@
 {
-  "obsidian-default-theme@@background-primary@@light": "#0A6673",
   "obsidian-default-theme@@background-primary-alt@@light": "#0A6673",
   "obsidian-default-theme@@background-secondary@@light": "#0A6673",
   "obsidian-default-theme@@background-secondary-alt@@light": "#0A6673",
@@ -11,5 +10,6 @@
   "obsidian-default-theme@@interactive-normal@@light": "#DBD3FF",
   "obsidian-default-theme@@text-muted@@light": "#B2A2FF",
   "obsidian-default-theme@@text-faint@@light": "#8879CF",
-  "obsidian-default-theme@@text-normal@@light": "#B2A2FF"
+  "obsidian-default-theme@@text-normal@@light": "#B2A2FF",
+  "obsidian-default-theme@@background-primary@@light": "#0A6673"
 }
