@@ -22,12 +22,12 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Coles Workflow Reminder.md",
+                        "file": "'world name'/'world name'.md",
                         "mode": "source",
                         "source": false
                       },
                       "icon": "lucide-file",
-                      "title": "Coles Workflow Reminder"
+                      "title": "'world name'"
                     },
                     "group": "81a75c76584845e8"
                   }
@@ -43,12 +43,12 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Coles Workflow Reminder.md",
+                        "file": "'world name'/'world name'.md",
                         "mode": "preview",
                         "source": false
                       },
                       "icon": "lucide-file",
-                      "title": "Coles Workflow Reminder"
+                      "title": "'world name'"
                     },
                     "group": "81a75c76584845e8"
                   }
@@ -255,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.1666259765625
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,7 +275,9 @@
   },
   "active": "ea16dc5ce6f37ab2",
   "lastOpenFiles": [
+    "'world name'/'world name'.md",
     "Coles Workflow Reminder.md",
+    "'world name'",
     "Welcome.md",
     "2026-27/When all else fails",
     "2026-27/Do Nows.md",
@@ -304,12 +307,10 @@
     "Notion/TTTTRPG/Flora/Flora.md",
     "Notion/TTTTRPG/Languages/Languages.md",
     "Notion/TTTTRPG/Magic Items/Magic Items.md",
-    "Notion/TTTTRPG/Organizations NPCs/Organizations NPCs.md",
     "VaultOperator",
     "/VaultOperator",
     "Notion/TTTTRPG/Races/——/——.base",
     "Notion/TTTTRPG/Fauna/Cube-Head Shark",
-    "Notion/TTTTRPG/Fauna/Frost Fin Minnow",
     "Movie List.png",
     "Yearly Goals.png",
     "Personal Home.jpeg",
