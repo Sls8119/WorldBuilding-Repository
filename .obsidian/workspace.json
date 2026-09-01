@@ -4,40 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "ca5f093533b29a87",
+        "id": "ebfdd36956cfee41",
         "type": "split",
         "children": [
           {
             "id": "4b91af7649ab0573",
             "type": "tabs",
-            "dimension": 69.90196078431372,
             "children": [
               {
                 "id": "f04d8312a5851315",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "steven is stoooopid.md",
+                    "mode": "source",
+                    "source": false
+                  },
                   "icon": "lucide-file",
-                  "title": "New tab"
+                  "title": "steven is stoooopid"
                 }
               }
             ]
           },
           {
-            "id": "5708b8dcc545bfdd",
+            "id": "b88dadeac05cb062",
             "type": "tabs",
-            "dimension": 30.098039215686274,
             "children": [
               {
-                "id": "ea16dc5ce6f37ab2",
+                "id": "8d7268f47bfacea2",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "terminal:terminal",
                   "state": {
                     "terminal:terminal": {
-                      "cwd": "C:\\Users\\steve\\Documents\\WorldBuilding Club\\Obsidian Workspace\\WorldBuilding Repository\\WorldBuilding Repository",
+                      "cwd": "C:\\World_Building_Space\\WorldBuilding-Repository",
                       "focus": false,
                       "profile": {
                         "args": [],
@@ -69,7 +71,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: MINGW64:/c/Users/steve/Documents/WorldBuilding Club/Obsidian Workspace/WorldBuilding Repository/WorldBuilding Repository"
+                  "title": "Terminal: MINGW64:/c/World_Building_Space/WorldBuilding-Repository"
                 }
               }
             ]
@@ -239,8 +241,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ea16dc5ce6f37ab2",
+  "active": "8d7268f47bfacea2",
   "lastOpenFiles": [
+    "steven is stoooopid.md",
     "Welcome.md",
     "2026-27/When all else fails",
     "2026-27/Do Nows.md",
@@ -271,7 +274,6 @@
     "Notion/TTTTRPG/Languages/Languages.md",
     "Notion/TTTTRPG/Magic Items/Magic Items.md",
     "Notion/TTTTRPG/Organizations NPCs/Organizations NPCs.md",
-    "Notion/TTTTRPG/Planes of Existence/Planes of Existence.md",
     "VaultOperator",
     "/VaultOperator",
     "Notion/TTTTRPG/Races/——/——.base",
